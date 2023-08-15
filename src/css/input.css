@@ -1,0 +1,16 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+    font-family: vlight;
+    src: url("../font/vazirfont/Vazir-Light-FD-WOL.ttf");
+}
+@font-face {
+    font-family: vmedium;
+    src: url("../font/vazirfont/Vazir-Medium-FD-WOL.ttf");
+}
+@font-face {
+    font-family: vbold;
+    src: url("../font/vazirfont/Vazir-Bold-FD-WOL.ttf");
+}
