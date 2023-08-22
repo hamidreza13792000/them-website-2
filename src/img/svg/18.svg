@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 55.2 (78181) - https://sketchapp.com -->
+    <title>icon-venn-diagram-diagonal-32-color</title>
+    <desc>Created with Sketch.</desc>
+    <g id="icon-venn-diagram-diagonal-32-color" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <polygon id="Path-125" fill="#00BFB3" fill-rule="nonzero" points="9.70710678 17.7071068 14.7071068 12.7071068 13.2928932 11.2928932 8.29289322 16.2928932"></polygon>
+        <polygon id="Path-125" fill="#00BFB3" fill-rule="nonzero" points="15.7071068 23.7071068 20.7071068 18.7071068 19.2928932 17.2928932 14.2928932 22.2928932"></polygon>
+        <path d="M25,19.5 C25,26.4038065 19.4036119,32 12.5,32 C5.59600135,32 0,26.4039986 0,19.5 C0,12.5960014 5.59600135,7 12.5,7 C19.4036119,7 25,12.5961935 25,19.5 Z M23,19.5 C23,13.7007786 18.299058,9 12.5,9 C6.70057085,9 2,13.7005709 2,19.5 C2,25.2994291 6.70057085,30 12.5,30 C18.299058,30 23,25.2992214 23,19.5 Z" id="Stroke-1" fill="#555A67" fill-rule="nonzero"></path>
+        <polygon id="Stroke-3" fill="#1DBAB0" fill-rule="nonzero" points="17.7928932 12.7928932 10.7928932 19.7928932 12.2071068 21.2071068 19.2071068 14.2071068"></polygon>
+        <path d="M32,12.5 C32,19.4038065 26.4036119,25 19.5,25 C12.5960014,25 7,19.4039986 7,12.5 C7,5.59600135 12.5960014,0 19.5,0 C26.4036119,0 32,5.59619349 32,12.5 Z M30,12.5 C30,6.70077855 25.299058,2 19.5,2 C13.7005709,2 9,6.70057085 9,12.5 C9,18.2994291 13.7005709,23 19.5,23 C25.299058,23 30,18.2992214 30,12.5 Z" id="Stroke-9" fill="#555A67" fill-rule="nonzero"></path>
+    </g>
+</svg>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 55.2 (78181) - https://sketchapp.com -->
+    <title>icon-box-open-32-color</title>
+    <desc>Created with Sketch.</desc>
+    <g id="icon-box-open-32-color" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <polygon id="Shape" fill="#535966" fill-rule="nonzero" points="27 24.2827273 16 28.9149495 5 24.2827273 5 16.2533333 3 16.2533333 3 25.610606 16 31.0850505 29 25.610606 29 16 27 16"></polygon>
+        <path d="M3.4724113,8.74408594 L16.4348814,13.4577114 L12.4598423,20.745283 L0.149059075,16.0554608 L3.4724113,8.74408594 Z M2.85094093,14.9445392 L11.5401577,18.254717 L13.5651186,14.5422886 L4.5275887,11.2559141 L2.85094093,14.9445392 Z" id="Rectangle" fill="#535966" fill-rule="nonzero"></path>
+        <path d="M18.9724113,8.74408594 L31.9348814,13.4577114 L27.9598423,20.745283 L15.6490591,16.0554608 L18.9724113,8.74408594 Z M18.3509409,14.9445392 L27.0401577,18.254717 L29.0651186,14.5422886 L20.0275887,11.2559141 L18.3509409,14.9445392 Z" id="Rectangle" fill="#535966" fill-rule="nonzero" transform="translate(23.791970, 14.744684) scale(-1, 1) translate(-23.791970, -14.744684) "></path>
+        <polygon id="Path-69" fill="#535966" fill-rule="nonzero" points="15 14 15 29.25 17 29.25 17 14"></polygon>
+        <polygon id="Path-97" fill="#00BFB3" fill-rule="nonzero" points="15 1 15 8 17 8 17 1"></polygon>
+        <polygon id="Path-97" fill="#00BFB3" fill-rule="nonzero" points="24.6949442 2.90680096 21.1949442 7.65680096 22.8050558 8.84319904 26.3050558 4.09319904"></polygon>
+        <polygon id="Path-97" fill="#00BFB3" fill-rule="nonzero" points="5.69494416 4.09319904 9.19494416 8.84319904 10.8050558 7.65680096 7.30505584 2.90680096"></polygon>
+    </g>
+</svg>
